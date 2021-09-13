@@ -4,7 +4,7 @@ Contains all the file to recreate our HighDiv timelapse plateform [ref here]
 3. Micromanager scripts for high speed timelapse, notably fast focus
 
 
-
+------------------------------------------
 3./
 This script is attached to the MDA and performs autofocus on the first position of the position list, then apply the z-offset to the rest of the positions. Applies at each time point before the first channel. It is an efficient method if your loss of focus is homogeneous (example: thermal drift of the stage) to save time in your MDA routine.
 
