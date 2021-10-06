@@ -2,6 +2,7 @@ This repo contains all the file to recreate our HighDiv timelapse plateform [ref
 1. CAD files to reproduce the microfluidic device
 2. Scheme and components to reproduce the microscope
 3. Micromanager scripts for high speed timelapse, notably fast focus
+4. Datasets and trained networks (Folder "Datasets")
 
 
 ------------------------------------------
