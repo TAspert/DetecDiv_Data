@@ -4,10 +4,10 @@ This repo contains all the file to recreate our DetecDiv timelapse plateform [bi
 3. Micromanager scripts for high speed timelapse, notably fast focus
 
 Besides, datasets and trained networks used in this paper are available at:
-Lifespan: doi.org/10.5281/zenodo.5552642 (CNN+LSTM)
-Brightfield segmentation: coming soon. (Encoder-Decoder Deeplabv3+)
-Fluo segmentation: coming soon. (Encoder-Decoder Deeplabv3+)
-Cell-cycle slowdown detection: coming soon. (LSTM)
+*Lifespan*: doi.org/10.5281/zenodo.5552642 (CNN+LSTM)
+*Brightfield segmentation*: coming soon. (Encoder-Decoder Deeplabv3+)
+*Fluo segmentation*: coming soon. (Encoder-Decoder Deeplabv3+)
+*Cell-cycle slowdown detection*: coming soon. (LSTM)
 
 
 ------------------------------------------
