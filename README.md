@@ -1,8 +1,9 @@
-This repo contains all the file to recreate our HighDiv timelapse plateform [ref here]
+This repo contains all the file to recreate our DetecDiv timelapse plateform [biorxiv.org/content/10.1101/2021.10.05.463175v1]
 1. CAD files to reproduce the microfluidic device
 2. Scheme and components to reproduce the microscope
 3. Micromanager scripts for high speed timelapse, notably fast focus
-4. Datasets and trained networks (Folder "Datasets")
+
+Besides, datasets and trained networks are available at bioimage.io/xxx
 
 
 ------------------------------------------
