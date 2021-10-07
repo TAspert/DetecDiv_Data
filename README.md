@@ -3,14 +3,7 @@ This repo contains all the file to recreate our DetecDiv timelapse plateform [bi
 2. Scheme and components to reproduce the microscope
 3. Micromanager scripts for high speed timelapse, notably fast focus
 
-## Datasets & networks ## 
-Besides, datasets and trained networks used in this paper are available at:
-
-**Lifespan**: Data: doi.org/10.5281/zenodo.5552642 // Trained Network (CNN+LSTM): doi.org/10.5281/zenodo.5553862 
-
-**Brightfield segmentation**: Data: doi.org/10.5281/zenodo.5553771 // Trained Network (Encoder-Decoder Deeplabv3+): doi.org/10.5281/zenodo.5553851
-
-**Cell-cycle slowdown detection**: Data: doi.org/10.5281/zenodo.5553796 // Trained Network (LSTM): doi.org/10.5281/zenodo.5553829
+4. Besides, it also contains the Zenodo links to the datasets and networks used in the manuscript.
 
 
 ------------------------------------------
