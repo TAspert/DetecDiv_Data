@@ -1,7 +1,7 @@
 This repo contains all the file to recreate our DetecDiv timelapse plateform [biorxiv.org/content/10.1101/2021.10.05.463175v1]
-1. CAD files to reproduce the microfluidic device
+1. CAD files to reproduce the microfluidic device (.dwg)
 2. Scheme and components to reproduce the microscope
-3. Micromanager scripts for high speed timelapse, notably fast focus
+3. Micromanager scripts for high speed timelapse, notably fast focus (.bsh)
 
 4. Besides, it also contains the Zenodo links to the datasets and trained networks used in the manuscript. (Datasets_Networks.md)
 
